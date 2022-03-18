@@ -185,7 +185,10 @@ footer{
 
 
 @media only screen and (max-width: 600px) {
+    .container-1{
+    height: fit-content;
     
+    }
     .text-1 h1 {
       font-size: 70px;
     }
