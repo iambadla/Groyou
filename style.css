@@ -11,7 +11,6 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
-    height: 10vh;
     background: rgba(221, 113, 113, 0.048);
 }
 .topnav a img{
